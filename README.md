@@ -10,4 +10,4 @@ While most of the work I do at @pivotal is not available publically on Github, I
 
 #### Language Learning Apps
 
-Together with @immenor and @wrightak I work on ![Tako Words](https://apps.apple.com/us/app/tako-words/id966420453), an iOS application to help you learn a new langauge. We're focussed on Japanese and English for now, but hope to add dictionaries for other languages in the future. Tako is unique among language learning apps in that it's focussed around the example sentences you enter yourself. It generates flashcard and schedules them with the Supermemo algorithm.
+Together with @immenor and @wrightak I work on [Tako Words](https://apps.apple.com/us/app/tako-words/id966420453), an iOS application to help you learn a new langauge. We're focussed on Japanese and English for now, but hope to add dictionaries for other languages in the future. Tako is unique among language learning apps in that it's focussed around the example sentences you enter yourself. It generates flashcard and schedules them with the Supermemo algorithm.
