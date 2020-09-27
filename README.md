@@ -1,6 +1,6 @@
 ## Welcome 
 
-I'm a Senior Software Engineer currently working at [VMware Pivotal Labs](https://tanzu.vmware.com/labs) in Tokyo, Japan! Most of the work I do is for clients and closed source, however I do contribute to open source projects when I can, and work on a significant side project which you can read about below. 
+I'm a Senior Software Engineer currently working at [VMware Pivotal Labs](https://tanzu.vmware.com/labs). Most of the work I do is for clients and is closed source, however I do contribute to open source projects when I can, and work on a significant side project which you can read about below. 
 
 ### Recent Work
 
@@ -22,4 +22,4 @@ I have made some small contributions to [Succint](https://github.com/derekleeroc
 
 #### Programming Languages and Compilers
 
-Programming langauges, compilers and interpreters have always been an interest of mine. I have enjoyed working through "Writing an Interpreter in Go", working through the code in the book and ending up with working [Monkey interpreter](https://github.com/rgravina/monkey). I have also implemented my own [Jack compiler](https://github.com/rgravina/nand2tetris) in Swift, using the book ["The Elements of Computing Systems"](https://www.nand2tetris.org).
+Programming langauges, compilers and interpreters have always been an interest of mine. I have enjoyed working through "Writing an Interpreter in Go", working through the code in the book and resulting in a completed [Monkey interpreter](https://github.com/rgravina/monkey). I have also implemented my own [Jack compiler](https://github.com/rgravina/nand2tetris) in Swift, using the book ["The Elements of Computing Systems"](https://www.nand2tetris.org).
