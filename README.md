@@ -30,4 +30,4 @@ I have made some small contributions to [Succint](https://github.com/derekleeroc
 
 #### Programming Languages and Compilers
 
-Programming langauges, compilers and interpreters have always been an interest of mine. I have enjoyed working through "Writing an Interpreter in Go", working through the code in the book and resulting in a completed [Monkey interpreter](https://github.com/rgravina/monkey). I have also implemented my own [Jack compiler](https://github.com/rgravina/nand2tetris) in Swift, using the book ["The Elements of Computing Systems"](https://www.nand2tetris.org).
+Programming langauges, compilers and interpreters have always been an interest of mine. I have enjoyed working through ["Writing an Interpreter in Go"](https://interpreterbook.com), working through the code in the book resulting in a completed [Monkey interpreter](https://github.com/rgravina/monkey). I have also implemented my own [Jack compiler](https://github.com/rgravina/nand2tetris) in Swift using the book ["The Elements of Computing Systems"](https://www.nand2tetris.org).
