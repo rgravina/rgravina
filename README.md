@@ -12,7 +12,7 @@ While most of the work I do at VMware Pivotal Labs is not available on Github, I
 
 #### Apps on the App Store
 
-Together with [@immenor](https://github.com/immenor) and [@wrightak](https://github.com/wrightak), I work on a language learning iPhone, Apple Watch and iPad app called [Tako Words](https://apps.apple.com/us/app/tako-words/id966420453). We've designed it with the needs of intermediate learners in mind, while keeping it accessable for beginners. We use the app daily and have users that do the same. It's a free app, so try it out and let us know what you think.
+Together with [@immenor](https://github.com/immenor) and others I work on a language learning iPhone, Apple Watch and iPad app called [Tako Words](https://apps.apple.com/us/app/tako-words/id966420453). We've designed it with the needs of intermediate learners in mind, while keeping it accessable for beginners. We use the app daily and have users that do the same. It's a free app, so try it out and let us know what you think.
 
 #### Mentoring
 
