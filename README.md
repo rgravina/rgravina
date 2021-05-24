@@ -26,7 +26,7 @@ I have also contributed to the [Women Who Code Tokyo iOS App](https://github.com
 
 ### Open Source Projects
 
-I have made some small contributions to [Succint](https://github.com/derekleerock/Succinct), an open source iOS testing library created by [@derekleerock](https://github.com/derekleerock/). It's great for writing fast, decoupled view controller tests that don't need to be run with XCUITest. I also made small improvements to [A Dark Room](https://github.com/rgravina/adarkroom), a Javascript text adventure game.
+I have made some small contributions to [Succinct](https://github.com/derekleerock/Succinct), an open source iOS testing library created by [@derekleerock](https://github.com/derekleerock/). It's great for writing fast, decoupled view controller tests that don't need to be run with XCUITest. I also made small improvements to [A Dark Room](https://github.com/rgravina/adarkroom), a Javascript text adventure game.
 
 ### Programming Languages and Compilers
 
