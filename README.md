@@ -12,7 +12,7 @@ While most of the work I do at VMware Tanzu Labs is not available on Github, I c
 
 ### Apps on the App Store
 
-Together with [@immenor](https://github.com/immenor) and others I work on a language learning iPhone, Apple Watch and iPad app called [Tako Words](https://apps.apple.com/us/app/tako-words/id966420453). We've designed it with the needs of intermediate learners in mind, while keeping it accessable for beginners. We use the app daily and have users that do the same. It's a free app, so try it out and let us know what you think.
+Together with [@immenor](https://github.com/immenor) and others I work on a language learning iPhone, Apple Watch and iPad app called [Context](http://studywithcontext.com/). We've designed it with the needs of both begginer and intermediate learners in mind and centered it around the idea of learning new words in the context that you heard them first. We use the app daily and have many users that do the same. It's a free app, so try it out and let us know what you think.
 
 ### Mentoring
 
@@ -26,8 +26,8 @@ I have also contributed to the [Women Who Code Tokyo iOS App](https://github.com
 
 ### Open Source Projects
 
-I have made some small contributions to [Succinct](https://github.com/derekleerock/Succinct), an open source iOS testing library created by [@derekleerock](https://github.com/derekleerock/). It's great for writing fast, decoupled view controller tests that don't need to be run with XCUITest. I also made small improvements to [A Dark Room](https://github.com/rgravina/adarkroom), a Javascript text adventure game.
+I have made some contributions to [Succinct](https://github.com/derekleerock/Succinct), an open source iOS testing library created by [@derekleerock](https://github.com/derekleerock/). It's great for writing fast, decoupled view controller tests that don't need to be run with XCUITest. I also made small improvements to [A Dark Room](https://github.com/rgravina/adarkroom), a Javascript text adventure game.
 
 ### Programming Languages and Compilers
 
-Programming langauges, compilers and interpreters have always been an interest of mine. I have enjoyed working through ["Writing an Interpreter in Go"](https://interpreterbook.com), resulting in a completed [Monkey interpreter](https://github.com/rgravina/monkey). I have also implemented my own [Jack compiler](https://github.com/rgravina/nand2tetris) in Swift using the book ["The Elements of Computing Systems"](https://www.nand2tetris.org).
+Programming languages, compilers and interpreters have always been an interest of mine. I have enjoyed working through ["Writing an Interpreter in Go"](https://interpreterbook.com), resulting in a completed [Monkey interpreter](https://github.com/rgravina/monkey). I have also implemented my own [Jack compiler](https://github.com/rgravina/nand2tetris) in Swift using the book ["The Elements of Computing Systems"](https://www.nand2tetris.org).
