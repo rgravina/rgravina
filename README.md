@@ -1,6 +1,6 @@
 # Welcome
 
-I'm a Senior Software Engineer currently working at [VMware Tanzu Labs](https://tanzu.vmware.com/labs). Most of the work I do is for clients and closed source, however I do contribute to open source projects when I can, and work on a significant side project which you can read about below.
+I'm a Senior Member of Technical Staff (a.k.a Staff Software Engineer) currently working at [VMware Tanzu Labs](https://tanzu.vmware.com/labs). Most of the work I do is for clients and closed source, however I do contribute to open source projects when I can, and work on a significant side project which you can read about below.
 
 ## Recent Work
 
